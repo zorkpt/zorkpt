@@ -1,18 +1,26 @@
-<h1 align="center">Hi 👋, I'm Hugo Poças</h1>
-<h3 align="center">A Full Stack developer from Portugal</h3>
+ 👋 Hi, I'm Hugo Poças! I'm a software engineer at Pluricosmetica, focused on harnessing technology to make a meaningful impact.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zorkpt&label=Profile%20views&color=0e75b6&style=flat" alt="zorkpt" /> </p>
+ ## About me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zorkpt" alt="zorkpt" /></a> </p>
+ With a background as a Multimedia Technician, I bring a unique skill set to my role as a software engineer, particularly in web development. My passion lies in creating software solutions that not only address challenges but are also inovative.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/hugopocas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hugopocas" height="30" width="40" /></a>
-</p>
+ ## Technical Skills
+ - Languages: JavaScript, PHP, Python, currently diving deeper into TypeScript.
+ - Frameworks & Libraries: Vue.JS, Node.js, React, Laravel, TailwindCSS
+ - Tools & Platforms: Git, Github/Gitlab, Docker, Linux
+ 
+ ## Key Projects
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+- [comunidades-tech-portugal](https://github.com/zorkpt/comunidades-tech-portugal): A curated list of Portuguese tech communities, created to help guide people in Portugal to engage with local tech groups.
+- [Estrutura-Dados-Avancados](https://github.com/zorkpt/Estrutura-Dados-Avancados): An academic project in C, focusing on data structures like linked lists, graphs, and hash tables. It includes solving the Traveling Salesman Problem, applying Dijkstra’s algorithm and breadth-first traversal to calculate movements in graphs.
+- [Gestão Transações Imobiliarias](https://github.com/zorkpt/repo_ProjetoGestaoTransacoesImobiliarias): A backend service for managing real estate transactions, developed in an academic setting using C#.
+- [FCA Compiler](https://github.com/zorkpt/FCA-Compiler): A compiler and C converter for the FCA language, developed in Python.
+- [Personal Blog](https://github.com/zorkpt/personal-blog): A blog built with PHP, initially for learning purposes. Currently undergoing a redesign.
+- [Padel League](https://github.com/zorkpt/padel_league): A full-stack application built in vanilla PHP for managing private padel leagues.
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zorkpt&show_icons=true&locale=en&layout=compact" alt="zorkpt" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zorkpt&" alt="zorkpt" /></p>
+## Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/hugopocas/)
+
+I'm always open to collaborating on projects that blend technology with social good!
