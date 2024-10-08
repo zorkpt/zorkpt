@@ -1,4 +1,4 @@
- 👋 Hi, I'm Hugo Poças! I'm a software engineer at Pluricosmetica, focused on harnessing technology to make a meaningful impact.
+ 👋 Hi, I'm Hugo Poças! I'm a software developer at Pluricosmetica.
 
  ## About me
 
