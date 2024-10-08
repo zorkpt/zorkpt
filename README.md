@@ -2,10 +2,10 @@
 
  ## About me
 
- With a background as a Multimedia Technician, I bring a unique skill set to my role as a software engineer, particularly in web development. My passion lies in creating software solutions that not only address challenges but are also inovative.
+ With a background as a Multimedia Technician, I bring a unique skill set to my role as a software developer, particularly in web development. My passion lies in creating software solutions that not only address challenges but are also inovative.
 
  ## Technical Skills
- - Languages: JavaScript, PHP, Python, currently diving deeper into TypeScript.
+ - Languages: JavaScript, PHP, Python, TypeScript, CSS.
  - Frameworks & Libraries: Vue.JS, Node.js, React, Laravel, TailwindCSS
  - Tools & Platforms: Git, Github/Gitlab, Docker, Linux
  
