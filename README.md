@@ -23,4 +23,4 @@
 
 - [LinkedIn](https://www.linkedin.com/in/hugopocas/)
 
-I'm always open to collaborating on projects that blend technology with social good!
+I'm always open to collaborating on projects :)
