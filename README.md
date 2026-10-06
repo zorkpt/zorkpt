@@ -1,26 +1,28 @@
- 👋 Hi, I'm Hugo Poças! I'm a software developer at Pluricosmetica.
+# Hugo Poças
 
- ## About me
+Backend-focused software engineer based in Braga, Portugal. I build and run event-driven systems with PHP/Laravel, Node.js/TypeScript, PostgreSQL, Redis and Kafka.
 
- With a background as a Multimedia Technician, I bring a unique skill set to my role as a software developer, particularly in web development. My passion lies in creating software solutions that not only address challenges but are also inovative.
+## What I work on
 
- ## Technical Skills
- - Languages: JavaScript, PHP, Python, TypeScript, CSS.
- - Frameworks & Libraries: Vue.JS, Node.js, React, Laravel, TailwindCSS
- - Tools & Platforms: Git, Github/Gitlab, Docker, Linux
- 
- ## Key Projects
+**PluriWMS** (Pluricosmetica, private)
+Warehouse management system used daily by 60 warehouse operators and 600 store staff. Picking flows, stock and position management, label printing, and event-driven services on Kafka/Redpanda.
 
-- [comunidades-tech-portugal](https://github.com/zorkpt/comunidades-tech-portugal): A curated list of Portuguese tech communities, created to help guide people in Portugal to engage with local tech groups.
-- [Estrutura-Dados-Avancados](https://github.com/zorkpt/Estrutura-Dados-Avancados): An academic project in C, focusing on data structures like linked lists, graphs, and hash tables. It includes solving the Traveling Salesman Problem, applying Dijkstra’s algorithm and breadth-first traversal to calculate movements in graphs.
-- [Gestão Transações Imobiliarias](https://github.com/zorkpt/repo_ProjetoGestaoTransacoesImobiliarias): A backend service for managing real estate transactions, developed in an academic setting using C#.
-- [FCA Compiler](https://github.com/zorkpt/FCA-Compiler): A compiler and C converter for the FCA language, developed in Python.
-- [Personal Blog](https://github.com/zorkpt/personal-blog): A blog built with PHP, initially for learning purposes. Currently undergoing a redesign.
-- [Padel League](https://github.com/zorkpt/padel_league): A full-stack application built in vanilla PHP for managing private padel leagues.
+**[letra5.pt](https://letra5.pt)** (private code)
+Real-time multiplayer word game in Portuguese, in production for over a year. Redis-backed matchmaking and match state, WebSockets, PWA with push notifications, CI/CD with GitHub Actions, and Grafana + Loki for observability.
 
+**[comunidades-tech-portugal](https://github.com/zorkpt/comunidades-tech-portugal)**
+A curated list of Portuguese tech communities.
 
-## Connect with me
+**[DevPT Discord bot](https://github.com/devpt-org/discord-bot)**
+Contributions to the community bot, written in TypeScript with a hexagonal architecture.
 
-- [LinkedIn](https://www.linkedin.com/in/hugopocas/)
+## Stack
 
-I'm always open to collaborating on projects :)
+- **Backend:** PHP/Laravel, Node.js, TypeScript, Python
+- **Data and messaging:** PostgreSQL, MariaDB, Redis, Kafka/Redpanda
+- **Frontend:** Vue 3, TypeScript, Tailwind CSS
+- **Infrastructure:** Docker, Linux, Caddy, Cloudflare, GitHub Actions, Grafana, Loki
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/hugopocas/) · hugopocas@gmail.com
